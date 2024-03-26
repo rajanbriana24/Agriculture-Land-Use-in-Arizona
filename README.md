@@ -22,7 +22,7 @@ We utilize a diverse range of datasets to achieve our objectives, including:
 Our approach involves a series of comprehensive analyses and modeling techniques:
 - **Exploration of Cropland Satellite Datasets**: Initial analysis revealed vast uncultivated areas, prompting further investigation.
 - **Clustering Analysis**: Identification of cultivation clusters along riverbanks and anomalies near urban centers like Phoenix using DBSCAN clustering.
-- **Linear Regression Modeling**: Usage of linear regression models to predict precipitation, temperature (Tmax), and drought conditions.
+- **Linear Regression Modeling**: Usage of linear regression models to predict precipitation, temperature (Tmin and Tmax), and drought conditions.
 - **Socio-Economic Investigation**: Discovery of significant cultivation by Native American communities.
 - **Predictive Modeling for Sustainable Farming**: Creation of regression models and machine learning algorithms to predict future circumstances and suggest sustainable farming practices.
 

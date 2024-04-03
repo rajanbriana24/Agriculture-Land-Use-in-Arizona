@@ -1,6 +1,6 @@
 # Agriculture Land Use Analysis in Arizona
 
-Welcome to our Agriculture Land Use Analysis project focused on the state of Arizona! This project delves into the intricate patterns of agricultural land use, aiming to provide comprehensive insights into cultivation practices, irrigation requirements, and socio-economic implications. Our approach combines advanced data analysis techniques with predictive modeling to offer valuable information for policymakers, researchers, and agricultural stakeholders.
+This project delves into the intricate patterns of agricultural land use, aiming to provide comprehensive insights into cultivation practices, irrigation requirements, and socio-economic implications. Our approach combines advanced data analysis techniques with predictive modeling to offer valuable information for policymakers, researchers, and agricultural stakeholders.
 
 ## Objectives
 The primary objectives of this project are:
